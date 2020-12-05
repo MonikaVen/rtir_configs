@@ -1,0 +1,2 @@
+[47381] [Thu Dec  3 15:11:31 2020] [warning]: out from RT::Scrip-KE-CIRT/CC-57 to RT::Template=HASH(0x2088c050) is an invalid reference at /opt/rt4/sbin/../lib/RT/DependencyWalker.pm line 288. (/opt/rt4/sbin/../lib/RT/DependencyWalker.pm:288)
+[47381] [Thu Dec  3 15:11:31 2020] [warning]: out from RT::Scrip-KE-CIRT/CC-57 to RT::Template=HASH(0x2088c050) is an invalid reference at /opt/rt4/sbin/../lib/RT/DependencyWalker.pm line 197. (/opt/rt4/sbin/../lib/RT/DependencyWalker.pm:197)
